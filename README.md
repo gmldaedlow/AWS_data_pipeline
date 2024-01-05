@@ -1,6 +1,6 @@
 # AWS_data_pipeline
 
-The scope of this project is discribed in my [Blogpost on Medium]().
+The scope of this project is described in my [Blogpost on Medium]().
 The project is part of the WBS Coding School Datascience Bootcamp.
 
 ## Data
